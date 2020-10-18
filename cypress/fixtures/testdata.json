@@ -1,0 +1,21 @@
+{
+  "url": "https://www.nyse.com/listings_directory/stock",
+  "symbols": "div.has-loader > table > tbody > tr > td > a",
+  "tableRow": "div.has-loader > table > tbody > tr",
+
+  "fullPager": "div.true-grid-8 > div.text-center > div > ul > li",
+  
+  "first": "div > div.true-grid-8 > div.text-center > div > ul > li:nth-child(1)",
+  "previous": "div.true-grid-8 > div.text-center > div > ul > li:nth-child(2)",
+  "firstPage": "div.true-grid-8 > div.text-center > div > ul > li:nth-child(3)",
+
+  "lastPage": "div.true-grid-8 > div.text-center > div > ul > li:nth-child(7)",
+  "next": "div.true-grid-8 > div.text-center > div > ul > li:nth-child(8)",
+  "last": "div.true-grid-8 > div.text-center > div > ul > li:nth-child(9)",
+
+  "filter": "#instrumentFilter",
+
+  "noResultsMessage": "div.true-grid-8 > div.has-loader > table > tbody > tr > td"
+  
+
+}
